@@ -1,6 +1,6 @@
 ## Tutorial: Mixture Density Networks with JAX ##
 
-[!img](mdn_image.png)
+![Mixture Density Networks](mdn_image.png)
 
 April 2020
 
