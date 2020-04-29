@@ -1,6 +1,6 @@
 ## Tutorial: Mixture Density Networks with JAX ##
 
-![Mixture Density Networks](mdn_image.png)
+<img src="mdn_image.png" width="50%"/>
 
 April 2020
 
@@ -16,3 +16,5 @@ Paper: [Mixture Density Networks](https://publications.aston.ac.uk/id/eprint/373
 JAX is a minimal framework to automatically calculate the gradients of native Python and NumPy / SciPy functions. It is a nice tool in the machine learning research toolbox.
 
 Recommended [JAX](https://github.com/google/jax/) Tutorials: [Getting started with JAX](https://roberttlange.github.io/posts/2020/03/blog-post-10/) and [You don't know JAX](https://colinraffel.com/blog/you-don-t-know-jax.html)
+
+Notebook: [mixture_density_networks_jax.ipynb](mixture_density_networks_jax.ipynb)
