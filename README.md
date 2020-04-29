@@ -2,7 +2,10 @@
 
 <img src="mdn_image.png" width="25%"/>
 
-April 2020
+*April 2020*
+
+Reference paper: [Mixture Density Networks](https://publications.aston.ac.uk/id/eprint/373/1/NCRG_94_004.pdf) (Bishop, 1994)
+
 
 Related posts:
 - JavaScript [Tutorial](http://blog.otoro.net/2015/06/14/mixture-density-networks/)
@@ -10,8 +13,6 @@ Related posts:
 - PyTorch [Tuturial](https://github.com/hardmaru/pytorch_notebooks/blob/master/mixture_density_networks.ipynb)
 
 This tutorial is based on the recent PyTorch notebook with many improvements added by [kylemcdonald](https://github.com/kylemcdonald).
-
-Paper: [Mixture Density Networks](https://publications.aston.ac.uk/id/eprint/373/1/NCRG_94_004.pdf) (Bishop, 1994)
 
 *Note: This notebook used a slightly different loss formulation that is more efficient compared to the previous tutorials.*
 
