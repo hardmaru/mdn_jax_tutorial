@@ -14,7 +14,7 @@ Related posts:
 
 This tutorial is based on the recent PyTorch notebook with many improvements added by [kylemcdonald](https://github.com/kylemcdonald).
 
-*Note: This notebook describes a slightly different loss formulationcompared to the previous tutorials that is numerically much more stable, and is used in most of my other recent [projects](https://otoro.net/ml/) that used MDNs.*
+*Note: This notebook describes a slightly different loss formulation compared to the previous tutorials that is numerically much more stable, and is used in most of my other recent [projects](https://otoro.net/ml/) that used MDNs.*
 
 JAX is a minimal framework to automatically calculate the gradients of native Python and NumPy / SciPy functions. It is a nice tool in the machine learning research toolbox.
 
