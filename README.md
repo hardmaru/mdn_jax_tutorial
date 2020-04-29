@@ -22,3 +22,6 @@ JAX is a minimal framework to automatically calculate the gradients of native Py
 
 Recommended [JAX](https://github.com/google/jax/) Tutorials: [Getting started with JAX](https://roberttlange.github.io/posts/2020/03/blog-post-10/) and [You don't know JAX](https://colinraffel.com/blog/you-don-t-know-jax.html).
 
+## License
+
+MIT
